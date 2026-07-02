@@ -1,0 +1,74 @@
+Folder PATH listing
+Volume serial number is FA08-379A
+C:.
+¦   1.png
+¦   2.png
+¦   3.png
+¦   4.png
+¦   amfi_validation.py
+¦   bluestock_mf.db
+¦   clean_nav_history.py
+¦   clean_performance.py
+¦   clean_transactions.py
+¦   Dashboard.pdf
+¦   data_ingestion.py
+¦   explore_funds.py
+¦   live_nav_fetch.py
+¦   load_to_sqlite.py
+¦   project_structure.txt
+¦   recommender.py
+¦   requirements.txt
+¦   
++---charts
++---dashboard
+¦       1.png
+¦       bluestock_mf_dashboard.pbix.pbix
+¦       Dashboard.pdf
+¦       
++---data
+¦   +---processed
+¦   ¦       02_nav_history_clean.csv
+¦   ¦       07_performance_clean.csv
+¦   ¦       08_transactions_clean.csv
+¦   ¦       
+¦   +---raw
+¦           01_fund_master.csv
+¦           02_nav_history.csv
+¦           03_aum_by_fund_house.csv
+¦           04_monthly_sip_inflows.csv
+¦           05_category_inflows.csv
+¦           06_industry_folio_count.csv
+¦           07_scheme_performance.csv
+¦           08_investor_transactions.csv
+¦           09_portfolio_holdings.csv
+¦           10_benchmark_indices.csv
+¦           Axis_Bluechip.csv
+¦           Bluestock_MF_Capstone_Project.pdf
+¦           hdfc_top100_live_nav.csv
+¦           ICICI_Bluechip.csv
+¦           Kotak_Bluechip.csv
+¦           Nippon_Large_Cap.csv
+¦           SBI_Bluechip.csv
+¦           
++---notebooks
+¦       Advanced_Analytics.ipynb
+¦       EDA_Analysis.ipynb
+¦       Performance_Analytics.ipynb
+¦       
++---reports
+¦       alpha_beta.csv
+¦       benchmark_comparison.png
+¦       cagr_results.csv
+¦       data_dictionary.md
+¦       fund_scorecard.csv
+¦       hhi_report.csv
+¦       max_drawdown.csv
+¦       rolling_sharpe_chart.png
+¦       sharpe_ratio.csv
+¦       sortino_ratio.csv
+¦       var_cvar_report.csv
+¦       
++---sql
+        queries.sql
+        schema.sql
+        
